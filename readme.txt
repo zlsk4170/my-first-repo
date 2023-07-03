@@ -1,2 +1,2 @@
-"Welcome to my first repo" 
-"Learnig git" 
+"cos tam" 
+"cos tam3 " 
